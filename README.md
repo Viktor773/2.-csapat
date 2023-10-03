@@ -1,2 +1,4 @@
 # 2.-csapat
-PC házak, tápegységek, hűtés
+PC házak
+Tápegységek
+Hűtés
