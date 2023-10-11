@@ -9,3 +9,6 @@ Hűtés
 
 <h3>2.Óra</h3>
 Én megcsináltam a readme-t hogy szép legyen, Vityusz meg a Lágyi dolgoznak a pptn, néha kigyujtok kepek is
+
+<h4>3.Óra</h4>
+Jézus keresett hűtéssel kapcsolatos anyagot (talált is) és elkezdte kigyűjteni őket. Vityusz a PPT-n dolgozott, hogy minden a legjobb legyen. Lágyi keresett forrásokat, amiből úgyszintén anyagot lehet kigyűjteni. Bence nem volt órán, ezért nem csinált semmit.
