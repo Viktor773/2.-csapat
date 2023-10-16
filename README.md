@@ -9,3 +9,6 @@ Hűtés
 
 <h3>2.Óra</h3>
 Én megcsináltam a readme-t hogy szép legyen, Vityusz meg a Lágyi dolgoznak a pptn, néha kigyujtok kepek is
+
+<h3>3.Óra</h3>
+Vityo és Bence dolgoztak a pptn, én gyűjtöttem a forrást, Jézus meg nem volt
