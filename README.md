@@ -12,3 +12,6 @@ Hűtés
 
 <h3>3.Óra</h3>
 Vityo és Bence dolgoztak a pptn, én gyűjtöttem a forrást, Jézus meg nem volt
+
+<h3>5.Óra</h3>
+Vityo csinálta a ppt-t, Bence meg a Lágyi gyűjtötte a forrást
