@@ -1,0 +1,32 @@
+A számítógépház egy olyan külsõ borítás, amely az asztali számítógép belsõ részeit tartalmazza, mint például a processzort, az alaplapot, a merevlemezt, a memóriát és az egyéb hardverelemeket.
+
+A számítógép egy hardver
+
+
+Az asztali számítógép vázát a ház alkotja, amelyben speciális rögzítés lehetõségek vannak a részegységeknek.
+
+Biztosítania kell:
+
+A megfelelõ merevséget a biztonságos mûködéshez.
+
+A mûködés közben keletkezõ hõ elvezetését.
+
+A mûködési zaj mérséklését.
+
+A számítógépházak több mindentõl is függhetnek:
+-design 
+-helytakarékosság 
+-belsõ karakterisztika
+
+
+Üres számítógépház -> saját konfig 
+Fontos a méret is.
+Bõvítésre alkalmas legyen.
+
+A számítógépházak méretét elsõsorban a konfigurációban szereplõ alaplap határozza meg.
+
+A számítógépház a számítógép védelmét szolgálja, rögzíti a belsõ komponenseket, valamint mérsékli a gép ventilátorainak a zaját.
+Léteznek fém-, mûanyag-, valamint üveg borításúak, és különbözõ színekben és dizájnokban kaphatóak.
+Gyakran nyíló ajtó vagy oldallap található rajtuk -> könnyebb tisztítás :)
+
+Alátámasztást nyújt az alkatrészek elhelyezéséhez.
